@@ -1,0 +1,3 @@
+watchdog
+reportlab
+pandas
