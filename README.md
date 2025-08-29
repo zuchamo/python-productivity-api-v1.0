@@ -18,7 +18,7 @@ This repo includes:
 
 > ⚠️ Full branded version with setup guides, icons, and advanced features is available on Payhip.
 
-👉 [Get the Automation Starter Pack]([https://payhip.com/b/st6n2])
+👉 [Get the Automation Starter Pack](https://payhip.com/b/st6n2)
 
 ---
 
